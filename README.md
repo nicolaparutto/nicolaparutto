@@ -45,13 +45,7 @@
 </div>
 
 ###
-
-<p align="left">📩 Let's Connect:<br><br>- Linkedin: <br>- Email:</p>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/nicolaparutto/nicolaparutto/output/snake.svg" alt="Snake animation" />
-
+<h4>✉️ Let's Connect:</h4>
+Email: [Send Email](mailto:nicola.parutto3@gmail.com)
+Linkedin: [My Linkedin](https://www.linkedin.com/in/nicola-parutto-862608355)
 ###
