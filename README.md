@@ -46,6 +46,6 @@
 
 ###
 <h4>✉️ Let's Connect:</h4>
-Email: [Send Email](mailto:nicola.parutto3@gmail.com)
+<p>Email: <a href"mailto:nicola.parutto3@gmail.com">Send Mail</a></p>
 Linkedin: [My Linkedin](https://www.linkedin.com/in/nicola-parutto-862608355)
 ###
