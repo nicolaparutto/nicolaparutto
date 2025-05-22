@@ -45,7 +45,8 @@
 </div>
 
 ###
-<h4>✉️ Let's Connect:</h4>
-<p>✉️ Email: [nicola.parutto3@gmail.com](mailto:nicola.parutto3@gmail.com)</p>
-Linkedin: [My Linkedin](https://www.linkedin.com/in/nicola-parutto-862608355)
+### ✉️ Let's Connect:
+
+- ✉️ Email: [nicola.parutto3@gmail.com](mailto:nicola.parutto3@gmail.com)  
+- 🔗 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/nicola-parutto-862608355)
 ###
